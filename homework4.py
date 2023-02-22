@@ -24,7 +24,8 @@ class Student(Human,Age):
 
 
     def study(self):
-    print(f"{self.name} is studing.")
+        print(f"{self.name} is studing.")
+
 
 
 class Employee:
